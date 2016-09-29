@@ -1,0 +1,100 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v1.0",
+    "signature": "dbc078b0d0566f8d6a3c7ad28655c8ef9d5228fa"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v1.0": {
+      "ScanToCORePipe/1.0.0": {
+        "dependencies": {
+          "COReWriter": "1.0.0",
+          "CsvHelper": "2.16.3",
+          "ReportFormatter": "1.0.0",
+          "ReportGenerator": "1.0.0"
+        },
+        "runtime": {
+          "ScanToCORePipe.dll": {}
+        }
+      },
+      "CsvHelper/2.16.3": {
+        "runtime": {
+          "lib/netstandard1.3/CsvHelper.dll": {}
+        }
+      },
+      "GeoCoordinate.NetCore/1.0.0.1": {
+        "runtime": {
+          "lib/netstandard1.6/GeoCoordinate.NetCore.dll": {}
+        }
+      },
+      "COReWriter/1.0.0": {
+        "dependencies": {
+          "CsvHelper": "2.16.3",
+          "UnitOfMeasure": "1.0.0"
+        },
+        "runtime": {
+          "COReWriter.dll": {}
+        }
+      },
+      "ReportFormatter/1.0.0": {
+        "dependencies": {
+          "CsvHelper": "2.16.3",
+          "UnitOfMeasure": "1.0.0"
+        },
+        "runtime": {
+          "ReportFormatter.dll": {}
+        }
+      },
+      "ReportGenerator/1.0.0": {
+        "runtime": {
+          "ReportGenerator.dll": {}
+        }
+      },
+      "UnitOfMeasure/1.0.0": {
+        "dependencies": {
+          "GeoCoordinate.NetCore": "1.0.0.1"
+        },
+        "runtime": {
+          "UnitOfMeasure.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ScanToCORePipe/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CsvHelper/2.16.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-RTxNM9Q6MDg3WpGorrK7E9eXsjGhtDLYx5dBuHol5kHDpu7kND2NveHDVCFQgGxowuDB57ettaOEn3EJqiJ1oQ=="
+    },
+    "GeoCoordinate.NetCore/1.0.0.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-xgzm8XZZkesAbtPJNgwBdWjWLcw+0oi19nSzwtQdzThkfw7k6oQbBNpGuOPy09szpmCufD6t4CL46fAi/LjBrA=="
+    },
+    "COReWriter/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ReportFormatter/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ReportGenerator/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "UnitOfMeasure/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

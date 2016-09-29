@@ -1,0 +1,8 @@
+#:C:\Files\Dev\Ars\Ltar\CORe\ScanToCORePipe\src\COReWriter\COReWriter.xproj
+C:\Files\Dev\Ars\Ltar\CORe\ScanToCORePipe\src\COReWriter\COReWriter.xproj|C:\Files\Dev\Ars\Common\UnitOfMeasure\UnitOfMeasure\UnitOfMeasure.xproj
+#:C:\Files\Dev\Ars\Ltar\CORe\ScanToCORePipe\src\ScanToCORePipe\ScanToCORePipe.xproj
+C:\Files\Dev\Ars\Ltar\CORe\ScanToCORePipe\src\ScanToCORePipe\ScanToCORePipe.xproj|C:\Files\Dev\Ars\Ltar\CORe\ScanToCORePipe\src\COReWriter\COReWriter.xproj
+C:\Files\Dev\Ars\Ltar\CORe\ScanToCORePipe\src\ScanToCORePipe\ScanToCORePipe.xproj|C:\Files\Dev\Nrcs\Nwcc\ReportFormatter\ReportFormatter.xproj
+C:\Files\Dev\Ars\Ltar\CORe\ScanToCORePipe\src\ScanToCORePipe\ScanToCORePipe.xproj|C:\Files\Dev\Nrcs\Nwcc\ReportGenerator\ReportGenerator.xproj
+C:\Files\Dev\Ars\Ltar\CORe\ScanToCORePipe\src\COReWriter\COReWriter.xproj|C:\Files\Dev\Ars\Common\UnitOfMeasure\UnitOfMeasure\UnitOfMeasure.xproj
+C:\Files\Dev\Nrcs\Nwcc\ReportFormatter\ReportFormatter.xproj|C:\Files\Dev\Ars\Common\UnitOfMeasure\UnitOfMeasure\UnitOfMeasure.xproj
